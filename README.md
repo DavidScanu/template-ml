@@ -23,3 +23,7 @@ v1 - Version initiale
 - Export du modèle
 
 ---
+
+![Logo ISEN](./img/logo-isen.png)
+
+<img src="./img/logo-isen.png width="200">
