@@ -24,4 +24,4 @@ v1 - Version initiale
 
 ---
 
-![Logo ISEN](./img/logo-isen.png)
+![Logo ISEN](./img/logo-isen-small.png)
