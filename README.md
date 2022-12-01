@@ -25,3 +25,5 @@ v1 - Version initiale
 ---
 
 ![Logo ISEN](./img/logo-isen-small.png)
+
+![Logo SIMPLON](./img/logo-simplon-small.png)
