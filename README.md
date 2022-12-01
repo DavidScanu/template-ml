@@ -24,6 +24,10 @@ v1 - Version initiale
 
 ---
 
-![Logo ISEN](./img/logo-isen-small.png)
+<picture>
+  <img alt="Logo ISEN" src="./img/logo-isen-small.png">
+</picture>
 
-![Logo SIMPLON](./img/logo-simplon-small.png)
+<picture>
+  <img alt="Logo SIMPLON" src="./img/logo-simplon-small.png">
+</picture>
