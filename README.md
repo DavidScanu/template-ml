@@ -25,5 +25,3 @@ v1 - Version initiale
 ---
 
 ![Logo ISEN](./img/logo-isen.png)
-
-<img src="./img/logo-isen.png width="200">
